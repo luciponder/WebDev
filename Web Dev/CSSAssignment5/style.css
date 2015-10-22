@@ -1,0 +1,11 @@
+.one {
+     color: #ff0000;
+     border: 1px solid;
+}
+.two {
+     color: #00ff00;
+     border: 2px solid;
+}
+span {
+     color: #0000ff;
+}

@@ -1,0 +1,9 @@
+.toolbar 
+{
+display: block-inline; 
+border: 1px solid;
+margin: 0px;
+padding: .5em;
+zoom: 1;
+background-color: #f3f3f3;
+}
